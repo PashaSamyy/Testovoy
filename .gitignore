@@ -1,0 +1,14 @@
+target
+bin
+.settings
+.classpath
+.project
+.idea
+*.iml
+
+build
+.gradle
+
+# github workflow
+settings.xml
+toolchains.xml
